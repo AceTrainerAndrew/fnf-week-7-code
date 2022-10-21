@@ -6,6 +6,8 @@ pico
 mom
 mom-car
 bf-car
+bf-ace
+luna
 parents-christmas
 monster-christmas
 bf-christmas
