@@ -1,5 +1,4 @@
 tasks:
   - name: Dependency Haxe
     before: brew install haxe 
-    init: brew install haxeflixel
     command: haxeflixel install lime
