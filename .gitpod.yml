@@ -1,7 +1,5 @@
 tasks:
-  - name: haxe
-    init: ./depend/
-    command: brew install haxe
-  - name: haxeflixel
-    init: ./depend/
-    command: brew install haxeflixel
+  - name: Terminal 1
+    before: brew install haxe 
+    init: brew install haxeflixel
+    command: haxeflixel install lime
