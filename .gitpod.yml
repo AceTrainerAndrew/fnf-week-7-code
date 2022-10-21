@@ -1,7 +1,7 @@
 tasks:
   - name: haxe
-    init: gp sync-await bundle
+    init: ./depend/
     command: brew install haxe
   - name: haxeflixel
-    init: gp sync-await bundle
+    init: ./depend/
     command: brew install haxeflixel
