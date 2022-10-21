@@ -1,4 +1,4 @@
 tasks:
   - name: Lime
     init: gp sync-await bundle
-    command: brew install Lime
+    command: brew install haxe
